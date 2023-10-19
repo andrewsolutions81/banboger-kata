@@ -19,6 +19,11 @@
 
 3. [Code challenge three](https://github.com/andrewsolutions81/banboger-kata/blob/main/3_code_challenge_three.md) - [solution](https://github.com/andrewsolutions81/banboger-kata/blob/main/3_code_challenge_three_solution.ts) - [test on javascript](https://github.com/andrewsolutions81/banboger-kata/blob/main/3_code_challenge_three_solution.js)
 
+ After the interview and learning from the different solutions and my mistakes both on first one in one case and the second one completely here it is the commented and logged solutions
+
+ - [Challenge one explained](https://github.com/andrewsolutions81/banboger-kata/blob/main/E1_code_challenge_one_solution.js)
+ - [Challenge Two explained](https://github.com/andrewsolutions81/banboger-kata/blob/main/E2_code_challenge_two_solution.js)
+ - [Challenge Three explained](https://github.com/andrewsolutions81/banboger-kata/blob/main/E3_code_challenge_three_solution.js)
 
 
 
